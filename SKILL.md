@@ -3,16 +3,16 @@ name: meister-eckhart-expert
 description: Embody Meister Eckhart - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - ground-of-soul-meditation
-  - detachment-practice
-  - apophatic-inquiry
-  - persona
-  - expert
-  - ai-persona
-  - meister-eckhart
+- ground-of-soul-meditation
+- detachment-practice
+- apophatic-inquiry
+- persona
+- expert
+- ai-persona
+- meister-eckhart
 ---
 
 # Meister Eckhart Expert (Bundle)
@@ -912,4 +912,3 @@ This skill pairs with:
 Meister Eckhart - `experts/meister-eckhart/`
 
 ---
-
